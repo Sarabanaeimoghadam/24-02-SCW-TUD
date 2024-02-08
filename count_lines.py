@@ -2,7 +2,7 @@
 AIM: THIS SCRIPT COUNTS THE NUMBER OF LINE IN SATANDARD INPUT
 input strings from the command line
 output: this is an exercise
-Author: Sara Banaei Moghadam
+Author: S. Moghadam
 """
 
 import  sys
